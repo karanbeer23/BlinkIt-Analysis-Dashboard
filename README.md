@@ -1,7 +1,7 @@
 # 🟡 Blinkit Sales Analysis Dashboard
 
 An interactive **Power BI** dashboard that analyses Blinkit (India's last-minute grocery delivery app) sales data across product categories, outlet types, locations, and establishment years.
-
+> 📸 **Dashboard preview:** add a screenshot here (https://github.com/karanbeer23/BlinkIt-Analysis-Dashboard/blob/main/Snapshot%20of%20BlinkIt%20Analysis%20Dashboard.png).
 ---
 
 ## 📌 Overview
